@@ -1,0 +1,38 @@
+.BG_2 {
+    background-color: #080B12;
+}
+
+.body_Text {
+    color: #E6E6E6;
+}
+
+.icon_Color {
+    color: #B58617;
+}
+
+.firstHeading {
+    font-size: 48px;
+    font-weight: 700;
+    color: white;
+    /* margin-top: 30px; */
+    text-transform: uppercase;
+}
+.firstText{
+color: #B58617;
+}
+.Title_Content{
+    max-width: 750px;
+    width: 100% !important;
+}
+.secondText{
+    color: rgba(255, 255, 255, 0.5);
+}
+.HeadingText{
+    font-size: 50px;
+    font-weight: 700;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.btn_Content{
+    background-color: #B58617;
+}
