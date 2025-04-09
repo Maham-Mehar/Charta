@@ -1,0 +1,22 @@
+.custom-padding {
+    padding: 30px 0px;
+}
+
+@media screen and (min-width:1200px) {
+    .custom-padding {
+        padding: 0px;
+    }
+
+}
+@media screen and (min-width:576px) {
+    .custom-padding {
+        padding: 0px 20px;
+    }
+
+}
+@media screen and (min-width:450px) {
+    .custom-padding {
+        padding: 0px 20px;
+    }
+
+}
